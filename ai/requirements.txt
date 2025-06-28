@@ -1,0 +1,6 @@
+gradio
+openai
+langchain
+python-dotenv
+wikipedia
+serpapi
